@@ -10,7 +10,7 @@ div#general{
     margin:auto;
     width: 1200px;
     height: 600px;
-    background-image: url(../IMG/fondo-of.png) ;
+    background-image: url(fondo-of.png) ;
     background-repeat: no-repeat;
     padding: 10px;
 }
@@ -109,7 +109,7 @@ header{
 }
 @font-face {
     font-family: fuente1;
-    src: url(../FONTS/exo/Exo-Medium.otf);
+    src: url(exo/Exo-Medium.otf);
 }
 body{
     font-family: fuente1;
